@@ -1,0 +1,5 @@
+/Users/temp/C#/FileTest/FileTest/bin/Debug/FileTest.exe
+/Users/temp/C#/FileTest/FileTest/bin/Debug/FileTest.pdb
+/Users/temp/C#/FileTest/FileTest/obj/x86/Debug/FileTest.csproj.CoreCompileInputs.cache
+/Users/temp/C#/FileTest/FileTest/obj/x86/Debug/FileTest.exe
+/Users/temp/C#/FileTest/FileTest/obj/x86/Debug/FileTest.pdb
